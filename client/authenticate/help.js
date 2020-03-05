@@ -25,4 +25,4 @@ const auth = {
   }
 }
 
-export default auth
+modules.export default auth
