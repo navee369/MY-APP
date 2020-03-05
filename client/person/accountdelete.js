@@ -65,4 +65,4 @@ class DeleteUser extends Component {
 DeleteUser.propTypes = {
   userId: PropTypes.string.isRequired
 }
-export default DeleteUser
+modules.export default DeleteUser
