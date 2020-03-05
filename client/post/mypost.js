@@ -118,4 +118,4 @@ Post.propTypes = {
   onRemove: PropTypes.func.isRequired
 }
 
-export default withStyles(styles)(Post)
+modules.export default withStyles(styles)(Post)
