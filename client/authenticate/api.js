@@ -21,4 +21,4 @@ const signout = () => {
   }).catch((err) => console.log(err))
 }
 
-export { signin, signout }
+modules.export { signin, signout }
