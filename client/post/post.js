@@ -133,4 +133,4 @@ NewPost.propTypes = {
   addUpdate: PropTypes.func.isRequired
 }
 
-export default withStyles(styles)(NewPost)
+modules.export default withStyles(styles)(NewPost)
