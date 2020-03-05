@@ -59,4 +59,4 @@ const hasAuthorization = (req, res, next) => {
   next()
 }
 
-export default { signin, signout, requireSignin, hasAuthorization }
+modules.export default { signin, signout, requireSignin, hasAuthorization }
