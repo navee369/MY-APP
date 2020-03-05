@@ -75,4 +75,4 @@ Newsfeed.propTypes = {
   classes: PropTypes.object.isRequired
 }
 
-export default withStyles(styles)(Newsfeed)
+modules.export default withStyles(styles)(Newsfeed)
