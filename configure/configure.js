@@ -9,4 +9,4 @@ const config = {
     '/mernconcord'
 }
 
-export default config
+modules.export default config
