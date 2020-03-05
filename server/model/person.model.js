@@ -67,4 +67,4 @@ makeSalt: function() {
   }
 }
 
-export default mongoose.model('User', UserSchema) 
+modules.export default mongoose.model('User', UserSchema) 
