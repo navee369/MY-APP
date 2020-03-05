@@ -77,4 +77,4 @@ const remove = (req, res, next) => {
   })
 }
 
-export default { create, userByID, read, list, remove, update }
+modules.export default { create, userByID, read, list, remove, update }
