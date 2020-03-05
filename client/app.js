@@ -33,4 +33,4 @@ const App = () => (
   </BrowserRouter>
 )
 
-export default hot(module)(App)
+modules.export default hot(module)(App)
