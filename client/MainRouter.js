@@ -28,4 +28,4 @@ class MainRouter extends Component {
   }
 }
 
-export default MainRouter
+modules.export default MainRouter
