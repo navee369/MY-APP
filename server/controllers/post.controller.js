@@ -117,7 +117,7 @@ const isPoster = (req, res, next) => {
   next()
 }
 
-export default {
+modules.export default {
   listByUser,
   listNewsFeed,
   create,
