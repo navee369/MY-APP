@@ -63,4 +63,4 @@ TabContainer.propTypes = {
   children: PropTypes.node.isRequired
 }
 
-export default ProfileTabs
+modules.export default ProfileTabs
