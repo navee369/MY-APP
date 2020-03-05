@@ -64,4 +64,4 @@ const remove = (params, credentials) => {
   }) 
 }
 
-export { create, list, read, update, remove }
+modules.export { create, list, read, update, remove }
