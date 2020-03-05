@@ -73,4 +73,4 @@ Users.propTypes = {
   classes: PropTypes.object.isRequired
 }
 
-export default withStyles(styles)(Users)
+modules.export default withStyles(styles)(Users)
