@@ -154,4 +154,4 @@ EditProfile.propTypes = {
   classes: PropTypes.object.isRequired
 }
 
-export default withStyles(styles)(EditProfile)
+modules.export default withStyles(styles)(EditProfile)
