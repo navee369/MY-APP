@@ -15,6 +15,6 @@ const compile = (app) => {
   }
 }
 
-export default {
+modules.export default {
   compile
 }
