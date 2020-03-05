@@ -73,7 +73,7 @@ const uncomment = (params, credentials, postId, comment) => {
   })
 }
 
-export {
+modules.export {
   listNewsFeed,
   create,
   remove,
