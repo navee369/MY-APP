@@ -127,4 +127,4 @@ Profile.propTypes = {
   classes: PropTypes.object.isRequired
 }
 
-export default withStyles(styles)(Profile)
+modules.export default withStyles(styles)(Profile)
